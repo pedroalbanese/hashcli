@@ -238,3 +238,4 @@ Func _filelisttoarrayex($s_path, $s_mask = "*.*", $i_flag = 0, $s_exclude = -1, 
 	If $s_hold_ret = "" Then Return SetError(5, 5, 0)
 	Return StringSplit($s_hold_ret, Chr(1))
 EndFunc   ;==>_filelisttoarrayex
+
