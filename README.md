@@ -23,3 +23,6 @@ Example: HashCLI.exe --in *.txt (Default MD5)
          HashCLI.exe -r --in *.* --out Hash.md5
          HashCLI.exe -c --in Hash.md5
 </pre>
+
+## License
+This project is licensed under the ISC License.
